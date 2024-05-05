@@ -1,0 +1,20 @@
+INSERT INTO Customers
+VALUES
+    ('John', 'Doe', 'johndoe@gmail.com', '+234-910-233-4556', '1990-05-15', 'Lagos', 'Nigeria'),
+    ('Jane', 'Smith', 'janesmith@gmail.com', '+234-811-222-4567', '1985-09-20', 'Lagos', 'Nigeria'),
+    ('Michael', 'Johnson', 'michaelj@gmail.com', '+234-901-666-7777', '1988-03-10', 'Lagos', 'Nigeria'),
+    ('Emily', 'Davis', 'emilydavis@gmail.com', '+234-911-233-3232', '1995-12-28', 'Lagos', 'Nigeria'),
+    ('Chris', 'Wilson', 'chriswilson@gmail.com', '+234-900-123-2222', '1992-07-03', 'Lagos', 'Nigeria'),
+    ('Sarah', 'Brown', 'sarahbrown@gmail.com', '+234-800-4444-5674', '1980-11-15', 'Lagos', 'Nigeria'),
+    ('Alex', 'Martinez', 'alexmartinez@gmail.com', '+234-811-1111-2334', '1993-04-25', 'Lagos', 'Nigeria'),
+    ('Jessica', 'Lee', 'jessicalee@gmail.com', '+234-810-3456-7890', '1987-06-08', 'Lagos', 'Nigeria'),
+    ('David', 'Garcia', 'davidgarcia@gmail.com', '+234-800-111-1111', '1983-02-17', 'Lagos', 'Nigeria'),
+    ('Lisa', 'Nguyen', 'lisanguyen@gmail.com', '+234-814-234-4567', '1991-08-05', 'Lagos', 'Nigeria'),
+	('Chris', 'Taylor', 'ctaylor@gmail.com', '+234-803-444-5555', '1990-07-12', 'Lagos', 'Nigeria'),
+	('Samantha', 'White', 'swhite@gmail.com', '+234-701-222-3333', '1985-06-05', 'Lagos', 'Nigeria'),
+	('Robert', 'Downey', 'rdowney@gmail.com', '+234-801-784-1234', '1999-12-24', 'Lagos', 'Nigeria'),
+	('Sarah', 'Miller', 'sarahm@gmail.com', '+234-911-784-1234', '1989-09-12', 'Lagos', 'Nigeria'),
+    ('Chris', 'Lee', 'chrisl@gmail.com', '+234-801-434-3211', '1973-06-18', 'Lagos', 'Nigeria'),
+    ('Laura', 'Wilson', 'lauraw@gmail.com', '+234-801-000-9999', '1993-02-28', 'Lagos', 'Nigeria'),
+    ('Kevin', 'Garcia', 'keving@gmail.com', '+234-811-555-6666', '1987-04-04', 'Lagos', 'Nigeria'),
+    ('Amanda', 'Martinez', 'amandam@egmail.com', '+234-811-654-3245', '1980-11-09', 'Lagos', 'Nigeria');
